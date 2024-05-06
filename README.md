@@ -8,7 +8,7 @@ Projeto criado na linguagem de Programação
 Curso: Técnicode informática intgrado ao ensino médio
 IFSP CAR
 
-#### Pacots Utilizads:
+#### Pacotes Utilizados:
 
  nodemon
  express
