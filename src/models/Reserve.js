@@ -1,6 +1,6 @@
 import { Schema, model} from 'mongoose'
 
-const ReservaSchema = new Schema({
+const ReserveSchema = new Schema({
     date: String,
     user: {
         type: Schema.Types.ObjectId,

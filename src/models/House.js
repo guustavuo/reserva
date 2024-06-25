@@ -19,3 +19,5 @@ const HouseSchema = new Schema({
 HouseSchema.virtual('thumbnail_url').get(function() {
     return `http://localhost:4000/files/${this.thumbnail}`
 })
+
+export default model('House', HouseSchema)
